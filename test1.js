@@ -1,1 +1,1 @@
-const log = 'a';
+const a = "a";
